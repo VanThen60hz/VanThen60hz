@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm Then
 
 > My mission is to turn all bugs into new features. I mean no bug, it's a feature. ( ˶ˆᗜˆ˵ ) ✧ 
-- 🔭 I'm a software engineering student at [DuyTan University](https://duytan.edu.vn/).
+- 🔭 I'm a software engineering student at [Duy Tan University](https://duytan.edu.vn/).
 - 🌱 I'm trying to learn coding and build something cool!
 - 💬 Contact me at [nguyenvthang2409@gmail.com](mailto:nguyenvthang2409@gmail.com)
