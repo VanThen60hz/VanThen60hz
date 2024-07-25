@@ -12,13 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-<img align='left' src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="66">
+<kbd><img src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="66"> </kbd>
 
 ### Hi there 👋 I'm Then 
-<br/>
-
-
 > My mission is to turn all bugs into new features. I mean no bug, it's a feature. ( ˶ˆᗜˆ˵ ) ✧ 
 - 🔭 I'm a software engineering student at [Duy Tan University](https://duytan.edu.vn/).
 - 🌱 I'm trying to learn coding and build something cool!
