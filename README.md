@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **VanThen60hz/VanThen60hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" />
+<img align="right" width="64" src="https://github.com/VanThen60hz.png" style="border-radius: 50%;" />
+<h1 align="center">Hi 👋, I'm Thén</h1>
+<h2 align="center">A passionate developer from Vietnam</h2>
+
+> 🔭 I'm a software engineering student at [DuyTan University](https://duytan.edu.vn/).
+- 🌱 I'm trying to learn coding and build something cool!
+- 💬 Contact me at [nguyenvthang2409@gmail.com](mailto:nguyenvthang2409@gmail.com)
