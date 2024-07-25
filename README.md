@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-<kbd><img src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="66"> </kbd>
+<kbd><img src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="100"> </kbd>
 
 ### Hi there 👋 I'm Then 
 > My mission is to turn all bugs into new features. I mean no bug, it's a feature. ( ˶ˆᗜˆ˵ ) ✧ 
