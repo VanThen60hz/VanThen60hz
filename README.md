@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <!--
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" />
 -->
-<h1 align="center">Hi 👋, I'm Thén</h1>
-
 > My mission is to turn all bugs into new features. I mean no bug, it's a feature. ( ˶ˆᗜˆ˵ ) ✧ 
 - 🔭 I'm a software engineering student at [DuyTan University](https://duytan.edu.vn/).
 - 🌱 I'm trying to learn coding and build something cool!
