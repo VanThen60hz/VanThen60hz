@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!--
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" />
+-->
 <img align="right" width="64" src="https://github.com/VanThen60hz.png" style="border-radius: 50%;" />
 <h1 align="center">Hi 👋, I'm Thén</h1>
 <h2 align="center">A passionate developer from Vietnam</h2>
