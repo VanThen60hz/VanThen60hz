@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Thén</h1>
 <h2 align="center">A passionate developer from Vietnam</h2>
 
-> 🔭 I'm a software engineering student at [DuyTan University](https://duytan.edu.vn/).
+- 🔭 I'm a software engineering student at [DuyTan University](https://duytan.edu.vn/).
 - 🌱 I'm trying to learn coding and build something cool!
 - 💬 Contact me at [nguyenvthang2409@gmail.com](mailto:nguyenvthang2409@gmail.com)
