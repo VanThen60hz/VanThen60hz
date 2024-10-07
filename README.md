@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-<kbd><img src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="100"> </kbd>
+  <kbd> <img src="https://assets.leetcode.com/users/VanThen60hz/avatar_1718455145.png" width="100" > </kbd>
 
 ### Hi there 👋 I'm Then 
 > My mission is to turn all bugs into new features. I mean no bug, it's a feature. ( ˶ˆᗜˆ˵ ) ✧ 
 - 🔭 I'm a software engineering student at [Duy Tan University](https://duytan.edu.vn/).
 - 🌱 I'm trying to learn coding and build something cool!
 - 💬 Contact me at [nguyenvthang2409@gmail.com](mailto:nguyenvthang2409@gmail.com)
+ 
+![GitHub Stats](https://raw.githubusercontent.com/VanThen60hz/github-stats/master/generated/languages.svg#gh-light-mode-only)
